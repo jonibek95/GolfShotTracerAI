@@ -110,16 +110,3 @@ Physics is handled with:
 - Angle-based projection
 
 Trajectory points are rotated and projected back to image coordinates and visualized frame-by-frame.
-
----
-
-## 👤 Author
-
-**Jonibek Raupov**  
-GitHub: [@jonibek95](https://github.com/jonibek95)
-
----
-
-## 📜 License
-
-MIT License
