@@ -12,12 +12,6 @@ This repository demonstrates how to detect a **golf ball**, estimate its **fligh
 
 ---
 
-## ✨ Inpainted Trajectory Result
-
-![Inpainted Result](https://github.com/jonibek95/Golf_Trajectory/assets/84657258/9d85b582-9fd0-49b9-9f5c-8b765417da11)
-
----
-
 ## 🔍 Overview
 
 This project detects a golf ball using a YOLO-based model, calculates its initial velocity and angles, and simulates the 3D physical trajectory of the ball using motion equations and physics-based spin models. The result is rendered as a dynamic colored arc over the original video.
