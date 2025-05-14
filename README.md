@@ -2,8 +2,6 @@
 
 This repository demonstrates how to detect a **golf ball**, estimate its **flight parameters**, and **visualize the 3D trajectory** directly onto the video.
 
-![Trajectory Visualization](https://github.com/jonibek95/Golf_Trajectory/assets/84657258/0d913a5f-1526-47b6-b40e-19be58979e73)
-
 ---
 
 ## 🎥 Result Video
