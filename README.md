@@ -71,11 +71,6 @@ Make sure you have:
 jupyter notebook Draw_trajectory.ipynb
 ```
 
-- Or directly via script:
-```bash
-python detect.py
-```
-
 ---
 
 ## ⚙️ Configuration
